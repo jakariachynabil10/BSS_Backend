@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Y T Zihad Khan",
+    "img": "john_doe.jpg",
+    "dateOfBirth": "23/07/2001",
+    "JoinedClubDate": "August-2023",
+    "GameId": "ASAA- 071-834-121",
+    "Device" : "Sony Xperia 5 mark III"
+  },
+  {
+    "name": "Tasmir Mahbub Shihab ",
+    "img": "jane_smith.jpg",
+    "dateOfBirth": "22/08/1995",
+    "JoinedClubDate": "2021",
+    "GameId": "ASAA-582-152-963",
+    "Device" : "iPhone 14"
+  },
+  {
+    "name": "MD NEAMOL HUQ",
+    "img": "bob_johnson.jpg",
+    "dateOfBirth": "16/12/2000",
+    "JoinedClubDate": "2023 On April",
+    "GameId": "ASAA- 742738131",
+    "Device" : "Realme Gt Neo 2"
+  },
+  {
+    "name": "Áahik El Shaarawy ",
+    "img": "emily_davis.jpg",
+    "dateOfBirth": "24/01/1998",
+    "JoinedClubDate": "July,2023",
+    "GameId": "ASAA-610-794-378",
+    "Device" : "Rog 6"
+  },
+  {
+    "name": "Affan Muhammad",
+    "img": "michael_brown.jpg",
+    "dateOfBirth": "25/11/2004",
+    "JoinedClubDate": "January 1",
+    "GameId": "ASAA-653464170",
+    "Device" : "Affan Muhammad"
+  },
+  {
+    "name": "Ashfaqur Rahman(Rafi)",
+    "img": "sarah_wilson.jpg",
+    "dateOfBirth": "20/09/2000",
+    "JoinedClubDate": "1 October, 2022",
+    "GameId": "ASAA-640695918",
+    "Device": "Realme 8 pro"
+  },
+  {
+    "name": "Mehedi Hasan Sizar",
+    "img": "david_lee.jpg",
+    "dateOfBirth": "08/04/2001",
+    "JoinedClubDate": "2020",
+    "GameId": "ASAA014755672",
+    "Device" : "iPhone 15 Pro Max"
+  },
+  {
+    "name": "Md Eahia Mahmud",
+    "img": "megan_turner.jpg",
+    "dateOfBirth": "10/07/1999",
+    "JoinedClubDate": "Jan 1 , 2021",
+    "GameId": "ASAA-599666360",
+    "Device" : "Vivo 1811"
+  },
+  {
+    "name": "Mushfiqur Rahman Samrat ",
+    "img": "william_clark.jpg",
+    "dateOfBirth": "05/11/1997",
+    "JoinedClubDate": "2020",
+    "GameId": "ASAA-708344668",
+    "Device" : "Samsung Galaxy A50"
+  },
+  {
+    "name": "Mohammad Alamgir Hussain ",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "16/07/1987",
+    "JoinedClubDate": "2020",
+    "GameId": "ASAA-948686297",
+    "Device" : "POCO F3"
+  },
+  {
+    "name": "Nafisul Islam Turjo  ",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "21/10/2005",
+    "JoinedClubDate": "January 5, 2022",
+    "GameId": "ASAA-796-575-872",
+    "Device" : "OnePlus 9 "
+  },
+  {
+    "name": "Sáyém khándákér ",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "09/11/2000",
+    "JoinedClubDate": "2023",
+    "GameId": "ASFC-566-123-212",
+    "Device" : "Vivo y95 "
+  },
+  {
+    "name": "Tasin Ahmed  ",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "08/04/2006",
+    "JoinedClubDate": "September 2023",
+    "GameId": "ASAA-831-830-647",
+    "Device" : "Xs max"
+  },
+  {
+    "name": "Ahmed Muntasir ",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "12/05/2004",
+    "JoinedClubDate": "August",
+    "GameId": "ASPU-363-001-039",
+    "Device" : "Iphone 14"
+  },
+  {
+    "name": "Nadeem Ishtiaque  ",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "10/07/2004",
+    "JoinedClubDate": "2021",
+    "GameId": "ASAA-549-263-266",
+    "Device" : "Realme 8"
+  },
+  {
+    "name": "Belal Ahmed Siam ",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "12/11/2003",
+    "JoinedClubDate": "February -2022",
+    "GameId": "ASAA-758-469-507",
+    "Device" : "Mi 11 lite 5g NE"
+  },
+  {
+    "name": "Saifour Rahman Limon ",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "13/10/2023",
+    "JoinedClubDate": "২০২২",
+    "GameId": "ASAA-004-172-524",
+    "Device" : "Redmi Note 11 Pro 5G"
+  },
+  {
+    "name": "Shanto Barman  ",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "25/09/1997",
+    "JoinedClubDate": "2021",
+    "GameId": "ASAA-020-835-132",
+    "Device" : "Redmi note 7"
+  },
+  {
+    "name": "Mahadi Hasan Sakib ",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "12/07/2002",
+    "JoinedClubDate": "2023",
+    "GameId": "ASAA-685-920-832",
+    "Device" : "POCO F3"
+  },
+  {
+    "name": "Simon Barman  ",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "14/10/2023",
+    "JoinedClubDate": "2021",
+    "GameId": " ASEV-739-427-843",
+    "Device" : "Redmi Note 5"
+  },
+  {
+    "name": "E M ON ",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "27/08/2004",
+    "JoinedClubDate": "2021",
+    "GameId": "ASAA-017043844",
+    "Device" : "Poco x2"
+  },
+  {
+    "name": "Al Shahriar Hossain Badsha",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "09/09/2003",
+    "JoinedClubDate": "May 23, 2023",
+    "GameId": "ASAA578256264",
+    "Device" : "Realme Narzo 50"
+  },
+  {
+    "name": "Imon Das ",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "24/03/2002",
+    "JoinedClubDate": "2023",
+    "GameId": "ASAA- 551345990",
+    "Device" : "Realme 7"
+  },
+  {
+    "name": "Md Nurul Azom Arif ",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "27/03/2004",
+    "JoinedClubDate": "2023",
+    "GameId": "ASAA-729-112-210",
+    "Device" : "Xiaomi Redmi Note 7 Pro"
+  },
+  {
+    "name": "Mohammad Jobaed Islam",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "10/08/2001",
+    "JoinedClubDate": "2021",
+    "GameId": "ASAA 752371562",
+    "Device" : "Redmi S2"
+  },
+  {
+    "name": "Tanvir Shahriar ",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "04/11/2005",
+    "JoinedClubDate": "January 5, 2022",
+    "GameId": "ASAA-998-143-251",
+    "Device" : "iPhone 12 Pro Max "
+  },
+  {
+    "name": "Abdullah Al Mamun ",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "30/01/2003",
+    "JoinedClubDate": "2021",
+    "GameId": "ASAA-922-897-403",
+    "Device" : "One plus Nord CE 2"
+  },
+  {
+    "name": "Tahsin Rahman",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "31/10/2007",
+    "JoinedClubDate": "10 February 2023",
+    "GameId": "ASAA-838-329-848",
+    "Device" : "Infinix Hot 11s"
+  },
+  {
+    "name": "Shihab RHAMAN ",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "09/10/2023",
+    "JoinedClubDate": "2023",
+    "GameId": "ASSA-439-339-779 ",
+    "Device" : "Sm12 "
+  },
+  {
+    "name": "Meharat alam",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "11/11/2006",
+    "JoinedClubDate": "2021",
+    "GameId": "ASAA-712-392-905",
+    "Device" : "Pixel 4xl"
+  },
+  {
+    "name": "Jakaria Chy Nabil",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "26/06/2004",
+    "JoinedClubDate": "1 Jan 2021",
+    "GameId": "ASAA-544-674-466",
+    "Device" : "Redmi 5 plus"
+  },
+  {
+    "name": "Jagannath Biswas",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "30/11/1999",
+    "JoinedClubDate": "April 20,2023",
+    "GameId": "ASMD- 713-727-171",
+    "Device" : "Realme 8 Pro"
+  },
+  {
+    "name": "Debjit Jr.",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "19/10/2006",
+    "JoinedClubDate": "27 August 2022",
+    "GameId": "ASAA-654-182-561",
+    "Device" : "IQOO Z5 5G"
+  },
+  {
+    "name": "Md NADIM Hossain ",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "27/11/2001",
+    "JoinedClubDate": "2020",
+    "GameId": "ASAA -740576867",
+    "Device" : "Oppo F15 "
+  },
+  {
+    "name": "Tarik Mithu",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "01/01/1987",
+    "JoinedClubDate": "2023",
+    "GameId": "ASAA-928-365-950",
+    "Device" : "Redmi Note 11"
+  },
+  {
+    "name": "Ferdous Anonto ",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "18/04/2010",
+    "JoinedClubDate": "2023",
+    "GameId": "ASAA-811-059-675",
+    "Device" : "Realme 7 pro "
+  },
+  {
+    "name": "Nahid Hassan Noor",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "12/06/2005",
+    "JoinedClubDate": "2021",
+    "GameId": "ASVE-620206182",
+    "Device" : "realme 9 5G Speed Edition"
+  },
+  {
+    "name": "Ahnaf Jahin Arnob ",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "19/09/2004",
+    "JoinedClubDate": "2021",
+    "GameId": "ASSAA-737264510",
+    "Device" : "Samsung M 31"
+  },
+  {
+    "name": "Mohammed Maruf Islam",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "31/01/2002",
+    "JoinedClubDate": "2021",
+    "GameId": "ASAA-827-993-653",
+    "Device" : "Realme 11 pro plus 5G"
+  },
+  {
+    "name": "Harunor Rashed",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "02/07/1997",
+    "JoinedClubDate": "2023",
+    "GameId": "ASAA-550523956",
+    "Device" : "Redmi Note 7 Pro"
+  },
+  {
+    "name": "Mushfiqur Rahman",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "07/09/1999",
+    "JoinedClubDate": "2023",
+    "GameId": "ASKH-242-160-203",
+    "Device" : "Iphone 13"
+  },
+  {
+    "name": "Yousuf Abdullah Harun ",
+    "img": "olivia_parker.jpg",
+    "dateOfBirth": "25/02/1999",
+    "JoinedClubDate": "2021",
+    "GameId": "ASAA-833-958-477",
+    "Device" : "Samsung Galaxy S22 5G"
+  }
+]
