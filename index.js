@@ -41,7 +41,7 @@ async function run() {
       res.send(result);
     });
 
-    app.post("/updatePlayer/:id", async (req, res) => {
+    app.patch("/updatePlayer/:id", async (req, res) => {
       const id = req.params.id; // Extract the player's _id from the URL
       const updateData = req.body;
       console.log(id, updateData);
