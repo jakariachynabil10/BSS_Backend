@@ -334,5 +334,54 @@
     "JoinedClubDate": "2021",
     "GameId": "ASAA-833-958-477",
     "Device" : "Samsung Galaxy S22 5G"
+  },
+  {
+    "name": "Sohom Barmon",
+    "img": "https://i.ibb.co/tmWWW80/received-140455559131018-Sohom-Barmon.jpg",
+    "dateOfBirth": "19/08/2010",
+    "JoinedClubDate": "2023",
+    "GameId": "ASBB-567932372",
+    "Device" : "Poco x3 nfc"
+  },
+  {
+    "name": "Rashed bin muhammad",
+    "img": "https://i.ibb.co/BBFZCx7/photo-output-Ahmed-Khan.jpg",
+    "dateOfBirth": "05/01/1992",
+    "JoinedClubDate": "2021",
+    "GameId": "ASMD-615-153-027",
+    "Device" : "Mi pad 6 "
+  },
+  {
+    "name": "Mahir Ahnaf ",
+    "img": "https://i.ibb.co/NjtFc6r/SKY20230928-073510-Kashfi-Mahir.jpg",
+    "dateOfBirth": "19/02/2001",
+    "JoinedClubDate": "August2023",
+    "GameId": "ASDC-477-377-575",
+    "Device" : "OnePlus 7 pro"
+  },
+  {
+    "name": "Foyzul Islam ",
+    "img": "https://i.ibb.co/xsk2yQZ/IMG-20230901-232815-Abdul-Khalek.jpg",
+    "dateOfBirth": "21/12/2000",
+    "JoinedClubDate": "2020",
+    "GameId": "ASAA-578867355",
+    "Device" : "Huawei P30 Lite",
+    "role" : "admin"
+  },
+  {
+    "name": "Mohammad Abdul Waset",
+    "img": "https://i.ibb.co/pys7hM7/received-866051491557129-Foyzul-Howlader.jpg",
+    "dateOfBirth": "05/04/2000",
+    "JoinedClubDate": "March,2022",
+    "GameId": "ASAA-731217096",
+    "Device" : "Oneplus Nord"
+  },
+  {
+    "name": "Soaib Simanto",
+    "img": "https://i.ibb.co/MDKD1td/inbound5002302600440832268-Soaib-Simanto.jpg",
+    "dateOfBirth": "28/10/2000",
+    "JoinedClubDate": "2020",
+    "GameId": "ASAA-545-772-827",
+    "Device" : "Oneplus 7T"
   }
 ]
