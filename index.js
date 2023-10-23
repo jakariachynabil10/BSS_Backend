@@ -1,9 +1,9 @@
 const express = require("express");
 const app = express();
 const cors = require("cors");
+require("dotenv").config();
 const port = process.env.PORT || 5000;
 const { MongoClient, ServerApiVersion, ObjectId } = require("mongodb");
-require("dotenv").config();
 
 // middleware
 app.use(cors());
@@ -26,6 +26,7 @@ async function run() {
     await client.connect();
 
     const allPlayers = client.db("BlackStars").collection("AllPlayers");
+    const usersCollection = client.db("BlackStars").collection("users");
 
     app.get("/allPlayers", async (req, res) => {
       const result = await allPlayers.find().toArray();
@@ -41,21 +42,40 @@ async function run() {
       res.send(result);
     });
 
+    app.get("/users",  async (req, res) => {
+      const user = await usersCollection.find().toArray();
+      res.send(user);
+    });
+
+    app.post("/users", async (req, res) => {
+      const users = req.body;
+
+      const queary = { email: users.email };
+      const existingEmail = await usersCollection.findOne(queary);
+      console.log("existing User", existingEmail);
+      if (existingEmail) {
+        return res.send({ message: "user allready added" });
+      }
+      const result = await usersCollection.insertOne(users);
+      res.send(result);
+    });
+
     app.patch("/updatePlayer/:id", async (req, res) => {
       const id = req.params.id; // Extract the player's _id from the URL
       const updateData = req.body;
       console.log(id, updateData);
-    
+
       try {
         // Update the player's details based on their _id
-        const currentPlayer = await allPlayers.findOne({ _id: new ObjectId(id) });
+        const currentPlayer = await allPlayers.findOne({
+          _id: new ObjectId(id),
+        });
 
         updateData.PL = (currentPlayer.PL || 0) + 1;
 
         let winCounter = currentPlayer.winCounter || 0;
         let drawCounter = currentPlayer.drawCounter || 0;
         let loseCounter = currentPlayer.loseCounter || 0;
-    
 
         // Determine 'PTS' based on the match result
         if (updateData.MatchResult === "Win") {
@@ -85,18 +105,16 @@ async function run() {
         updateData.drawCounter = drawCounter;
         updateData.loseCounter = loseCounter;
 
-
         const result = await allPlayers.updateOne(
           { _id: new ObjectId(id) }, // Provide a filter to identify the document to update
           { $set: updateData } // The update data
         );
-    
-       res.send({result})
+      
+        res.send({ result });
       } catch (err) {
         res.status(500).json({ error: "Internal server error" });
       }
     });
-    
 
     // Send a ping to confirm a successful connection
     await client.db("admin").command({ ping: 1 });
