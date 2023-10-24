@@ -29,7 +29,7 @@ async function run() {
     const usersCollection = client.db("BlackStars").collection("users");
 
     app.get("/allPlayers", async (req, res) => {
-      const result = await allPlayers.find().toArray();
+      const result = await allPlayers.find().sort({ PTS: -1 }).toArray();
       console.log(result);
       res.send(result);
     });
